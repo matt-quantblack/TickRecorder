@@ -1,0 +1,4 @@
+ClientId=485_wa8KPR3wR9Jf8ZgFEiRuBXi8wtCGLVCdNAQXoISPdOUCpZJSgg
+ClientSecret=rdk7sIBd2w5sq8VUaNub9n2fb0zYoRpYaEkJfI2kt7hW2Ty2UD
+ApiHost=demo.ctraderapi.com
+ApiPort=5035

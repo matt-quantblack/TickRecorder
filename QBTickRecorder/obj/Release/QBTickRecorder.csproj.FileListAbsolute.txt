@@ -1,0 +1,12 @@
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\bin\Release\QBTickRecorder.dll
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\bin\Release\QBTickRecorder.pdb
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\bin\Release\Google.ProtocolBuffers.dll
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\bin\Release\Google.ProtocolBuffers.Serialization.dll
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\bin\Release\Open API Library.dll
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\bin\Release\Google.ProtocolBuffers.xml
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\bin\Release\Google.ProtocolBuffers.Serialization.xml
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\obj\Release\QBTickRecorder.csprojAssemblyReference.cache
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\obj\Release\QBTickRecorder.csproj.CoreCompileInputs.cache
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\obj\Release\QBTickRecorder.csproj.CopyComplete
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\obj\Release\QBTickRecorder.dll
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorder\obj\Release\QBTickRecorder.pdb

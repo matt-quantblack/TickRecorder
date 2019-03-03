@@ -1,0 +1,16 @@
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\bin\Debug\QBTickRecorderForms.exe.config
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\bin\Debug\QBTickRecorderForms.exe
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\bin\Debug\QBTickRecorderForms.pdb
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\bin\Debug\QBTickRecorder.dll
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\bin\Debug\Open API Library.dll
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\bin\Debug\Google.ProtocolBuffers.dll
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\bin\Debug\QBTickRecorder.pdb
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\bin\Debug\Google.ProtocolBuffers.xml
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\obj\Debug\QBTickRecorderForms.csprojAssemblyReference.cache
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\obj\Debug\QBTickRecorderForms.Properties.Resources.resources
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\obj\Debug\QBTickRecorderForms.csproj.GenerateResource.cache
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\obj\Debug\QBTickRecorderForms.csproj.CoreCompileInputs.cache
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\obj\Debug\QBTickRecorderForms.csproj.CopyComplete
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\obj\Debug\QBTickRecorderForms.exe
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\obj\Debug\QBTickRecorderForms.pdb
+G:\My Drive\C Sharp Apps\TickRecorder\QBTickRecorderForms\obj\Debug\QBTickRecorderForms.MainForm.resources
