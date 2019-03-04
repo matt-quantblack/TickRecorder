@@ -27,7 +27,7 @@ ApiPort=5035
 - Once the account is authorised create a file in the application directory local/users/config.txt
 - The file should have the format:
 
-  Token=Your token
+Token=Your token
   
 RefreshToken=Refresh token
 
