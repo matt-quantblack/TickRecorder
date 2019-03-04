@@ -14,10 +14,10 @@ Build in Visual Studio 2017
 - A cTrader API account needs to be created at connect.spotware.com
 - Create a file in the applications local directory called config.txt
 - The fille should have the format:
-ClientId=ClientID
-ClientSecret=ClientSecret
-ApiHost=demo.ctraderapi.com
-ApiPort=5035
+ClientId=ClientID\n
+ClientSecret=ClientSecret\n
+ApiHost=demo.ctraderapi.com\n
+ApiPort=5035\n
 - You then need to authorise a cTrader account (demo is fine) to use your cTrader application. Follow the directions at connect.spotware.com
 - Once the account is authorised create a file in the application directory local/users/config.txt
 - The file should have the format:
