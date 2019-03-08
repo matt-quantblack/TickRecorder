@@ -1,4 +1,4 @@
-# Crypot, FOREX, Commodities Tick Recorder
+# Crypo, FOREX, Commodities Tick Recorder
 
 Most trading applications only store the minute data and only the bid feed so it is difficult to get the high resolution tick data as well as the ask feed which allows for an accurate calculation of the spread.
 
